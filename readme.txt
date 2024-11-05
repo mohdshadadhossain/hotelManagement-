@@ -1,3 +1,12 @@
+
+## Features
+- **Room Reservations & Availability**: Easily book rooms and track availability.
+- **Check-In/Check-Out**: Streamlines check-in and check-out processes with required customer information.
+- **Admin Customer List**: Admins have access to a list of registered customers.
+- **Reservation Modifications**: Allows booking changes and cancellations for flexible management.
+
+## Getting Started
+
 If you want to run this program on Anaconda
 
 Anaconda Must Be Installed and further Open VS Code on it
